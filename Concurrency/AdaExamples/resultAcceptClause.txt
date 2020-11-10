@@ -1,0 +1,22 @@
+C:\GNAT\2020\bin\obj\acceptclause.exe
+Producer writing 1
+Consumer read 1
+Producer writing 2
+Consumer read 2
+Producer writing 3
+Consumer read 3
+Producer writing 4
+Consumer read 4
+Producer writing 5
+Consumer read 5
+Producer writing 6
+Consumer read 6
+Producer writing 7
+Consumer read 7
+Producer writing 8
+Consumer read 8
+Producer writing 9
+Consumer read 9
+Producer writing 10
+Consumer read 10
+[2020-11-10 09:33:58] process terminated successfully, elapsed time: 00.54s
