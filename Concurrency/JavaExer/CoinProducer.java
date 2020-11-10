@@ -1,5 +1,3 @@
-package MultiThread;
-
 import java.util.Random;
 
 public class CoinProducer extends Thread {
