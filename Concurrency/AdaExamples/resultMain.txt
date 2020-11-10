@@ -1,0 +1,63 @@
+C:\GNAT\2020\bin\obj\main.exe
+Executing Task Producer
+Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue  1
+Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Dequeue Enqueue  1
+Enqueue  2
+ 2
+Dequeue Dequeue Enqueue  3
+Enqueue  4
+ 4
+Dequeue  3
+Enqueue  5
+ 5
+Dequeue Enqueue  6
+ 6
+Dequeue Dequeue Enqueue  7
+Enqueue  8
+Enqueue  9
+Enqueue  7
+ 8
+ 10
+Dequeue Enqueue Dequeue  11
+ 9
+Enqueue Dequeue  12
+Dequeue Enqueue  13
+Dequeue  13
+ 11
+Enqueue Dequeue  14
+ 10
+ 12
+Dequeue Enqueue Dequeue  15
+ 14
+Dequeue Enqueue  16
+Dequeue  16
+ 15
+Dequeue Enqueue  17
+Dequeue  17
+Dequeue  18
+Dequeue Enqueue Dequeue  18
+Enqueue  19
+ 19
+Dequeue Enqueue  20
+ 20
+Dequeue Dequeue  21
+Dequeue Enqueue  21
+Dequeue  22
+Enqueue Dequeue  22
+Dequeue Enqueue  23
+Dequeue  23
+Dequeue Enqueue  24
+Enqueue  25
+ 24
+Enqueue Dequeue  26
+ 25
+ 26
+Dequeue Dequeue Enqueue  27
+ 27
+Dequeue Enqueue  28
+Dequeue  28
+Enqueue  29
+ 29
+Dequeue Enqueue  30
+ 30
+Dequeue 
